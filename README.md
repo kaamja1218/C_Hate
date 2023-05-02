@@ -1,1 +1,2 @@
 # C_Hate
+I HATE ELFLEE
