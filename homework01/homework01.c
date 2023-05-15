@@ -146,6 +146,7 @@ int main()
                 Game_Introduce();
                 screen = 0;
             }
+            key_input = 0;
         }
         else if (game_state == 3)
         {
@@ -155,6 +156,7 @@ int main()
                 Game_End();
                 screen = 0;
             }
+            key_input = 0;
         }
     }
     return 0;
