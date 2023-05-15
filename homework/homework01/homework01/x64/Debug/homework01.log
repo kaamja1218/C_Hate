@@ -1,0 +1,6 @@
+﻿  homework01.c
+C:\Users\User\Desktop\homework01\homework01\homework01.c(86): warning C4716: 'Game_Start': 값을 반환해야 합니다.
+C:\Users\User\Desktop\homework01\homework01\homework01.c(111): warning C4716: 'Game_End': 값을 반환해야 합니다.
+C:\Users\User\Desktop\homework01\homework01\homework01.c(107): warning C4716: 'Game_Introduce': 값을 반환해야 합니다.
+C:\Users\User\Desktop\homework01\homework01\homework01.c(82): warning C4716: 'Game_Loby': 값을 반환해야 합니다.
+  homework01.vcxproj -> C:\Users\User\Desktop\homework01\x64\Debug\homework01.exe
